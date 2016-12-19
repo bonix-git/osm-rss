@@ -1,0 +1,1623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:rssowl="http://www.rssowl.org" version="1.1">
+  <head>
+    <title>Subscrições RSSOwl</title>
+    <dateModified>Qui, 24 dez 2015 14:13:21 BRST</dateModified>
+  </head>
+  <body>
+    <outline text="As Minhas Fontes RSS" rssowl:isSet="true" rssowl:id="7">
+      <outline text="Google News sobre OpenStreetMap" xmlUrl="http://news.google.com/news?q=OpenStreetMap&amp;output=rss&amp;num=25" rssowl:id="458847" />
+      <outline text="Forum Pt-Br" xmlUrl="http://forum.openstreetmap.org/extern.php?action=feed&amp;fid=74&amp;type=atom" rssowl:id="458848" />
+      <outline text="Nova entrada no diário" xmlUrl="http://www.openstreetmap.org/diary/rss" rssowl:id="458849" />
+      <rssowl:savedsearch name="Notas abertas" matchAllConditions="true" rssowl:id="458152">
+        <rssowl:searchcondition>
+          <rssowl:searchspecifier id="11" />
+          <rssowl:searchvalue type="0" value="new note (near" />
+          <rssowl:searchfield id="0" entity="org.rssowl.core.persist.INews" />
+        </rssowl:searchcondition>
+        <rssowl:searchcondition>
+          <rssowl:searchspecifier id="12" />
+          <rssowl:searchvalue type="0">
+            <rssowl:location isBin="false" isFolder="true" value="458168" />
+          </rssowl:searchvalue>
+          <rssowl:searchfield id="19" entity="org.rssowl.core.persist.INews" />
+        </rssowl:searchcondition>
+        <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="420113" type="3" />
+      </rssowl:savedsearch>
+      <rssowl:savedsearch name="Notas fechadas" matchAllConditions="true" rssowl:id="458155">
+        <rssowl:searchcondition>
+          <rssowl:searchspecifier id="11" />
+          <rssowl:searchvalue type="0" value="closed note (near" />
+          <rssowl:searchfield id="-1" entity="org.rssowl.core.persist.INews" />
+        </rssowl:searchcondition>
+      </rssowl:savedsearch>
+      <rssowl:savedsearch name="Novos mapeadores" matchAllConditions="true" rssowl:id="458157">
+        <rssowl:searchcondition>
+          <rssowl:searchspecifier id="11" />
+          <rssowl:searchvalue type="0" value="Contributor" />
+          <rssowl:searchfield id="-1" entity="org.rssowl.core.persist.INews" />
+        </rssowl:searchcondition>
+        <rssowl:searchcondition>
+          <rssowl:searchspecifier id="12" />
+          <rssowl:searchvalue type="0">
+            <rssowl:location isBin="false" isFolder="true" value="458168" />
+          </rssowl:searchvalue>
+          <rssowl:searchfield id="19" entity="org.rssowl.core.persist.INews" />
+        </rssowl:searchcondition>
+        <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="420399" type="3" />
+      </rssowl:savedsearch>
+      <rssowl:savedsearch name="Contribuições pelo ID" matchAllConditions="true" rssowl:id="458160">
+        <rssowl:searchcondition>
+          <rssowl:searchspecifier id="11" />
+          <rssowl:searchvalue type="0" value="using iD" />
+          <rssowl:searchfield id="-1" entity="org.rssowl.core.persist.INews" />
+        </rssowl:searchcondition>
+        <rssowl:searchcondition>
+          <rssowl:searchspecifier id="12" />
+          <rssowl:searchvalue type="0">
+            <rssowl:location isBin="false" isFolder="true" value="458168" />
+          </rssowl:searchvalue>
+          <rssowl:searchfield id="19" entity="org.rssowl.core.persist.INews" />
+        </rssowl:searchcondition>
+      </rssowl:savedsearch>
+      <rssowl:savedsearch name="Contribuições pelo JOSM" matchAllConditions="true" rssowl:id="458163">
+        <rssowl:searchcondition>
+          <rssowl:searchspecifier id="11" />
+          <rssowl:searchvalue type="0" value="using JOSM" />
+          <rssowl:searchfield id="-1" entity="org.rssowl.core.persist.INews" />
+        </rssowl:searchcondition>
+        <rssowl:searchcondition>
+          <rssowl:searchspecifier id="12" />
+          <rssowl:searchvalue type="0">
+            <rssowl:location isBin="false" isFolder="true" value="458168" />
+          </rssowl:searchvalue>
+          <rssowl:searchfield id="19" entity="org.rssowl.core.persist.INews" />
+        </rssowl:searchcondition>
+        <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="420208" type="3" />
+      </rssowl:savedsearch>
+      <rssowl:savedsearch name="Contribuições pelo Potlatch" matchAllConditions="true" rssowl:id="458166">
+        <rssowl:searchcondition>
+          <rssowl:searchspecifier id="11" />
+          <rssowl:searchvalue type="0" value="using Potlatch" />
+          <rssowl:searchfield id="-1" entity="org.rssowl.core.persist.INews" />
+        </rssowl:searchcondition>
+      </rssowl:savedsearch>
+      <outline text="OpenStreetMap Brasil Ao Vivo" rssowl:isSet="false" rssowl:id="458168">
+        <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="433536" type="3" />
+        <outline text="Acre" rssowl:isSet="false" rssowl:id="458169">
+          <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="419313" type="3" />
+          <outline text="Vale do Acre" rssowl:isSet="false" rssowl:id="458170">
+            <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="410166" type="3" />
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-71.0999999,-11.144833,-66.6199444,-8.3659999" rssowl:id="458171">
+              <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="408470" type="3" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-71.0999999,-11.144833,-66.6199444,-8.3659999" rssowl:id="458172">
+              <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="410166" type="3" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-68.8599721&amp;lat=-9.7554164&amp;deg=1" rssowl:id="458173" />
+          </outline>
+          <outline text="Vale do Juruá" rssowl:isSet="false" rssowl:id="458174">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-73.9830624,-10.0003183,-69.4439999,-7.1130609" rssowl:id="458175" />
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-73.9830624,-10.0003183,-69.4439999,-7.1130609" rssowl:id="458176" />
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-71.7135311&amp;lat=-8.5566896&amp;deg=1" rssowl:id="458177" />
+          </outline>
+        </outline>
+        <outline text="Alagoas" rssowl:isSet="false" rssowl:id="458178">
+          <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-38.2369999,-10.6568192,-34.9634362,-8.8129999" rssowl:id="458179" />
+          <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-38.2369999,-10.6568192,-34.9634362,-8.8129999" rssowl:id="458180" />
+          <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-36.600218&amp;lat=-9.7349095&amp;deg=1" rssowl:id="458181">
+            <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="413449" type="3" />
+          </outline>
+        </outline>
+        <outline text="Amapá" rssowl:isSet="false" rssowl:id="458182">
+          <outline text="Norte do Amapá" rssowl:isSet="false" rssowl:id="458183">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-53.278992,0.934,-49.8759999,4.437" rssowl:id="458184" />
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-53.278992,0.934,-49.8759999,4.437" rssowl:id="458185" />
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-51.5774959&amp;lat=2.6855&amp;deg=1" rssowl:id="458186" />
+          </outline>
+          <outline text="Sul do Amapá" rssowl:isSet="false" rssowl:id="458187">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-54.8757749,-1.2359999,-49.8919999,2.471667" rssowl:id="458188" />
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-54.8757749,-1.2359999,-49.8919999,2.471667" rssowl:id="458189" />
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-52.3838874&amp;lat=0.6178336&amp;deg=1" rssowl:id="458190" />
+          </outline>
+        </outline>
+        <outline text="Amazonas" rssowl:isSet="false" rssowl:id="458191">
+          <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="409224" type="3" />
+          <outline text="Alto Solimões" rssowl:isSet="false" rssowl:id="458192">
+            <outline text="Amaturá" rssowl:isSet="false" rssowl:id="458193">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-68.6319999,-3.7749999,-67.8329999,-3.0669999" rssowl:id="458194" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-68.6319999,-3.7749999,-67.8329999,-3.0669999" rssowl:id="458195" />
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-68.2324999&amp;lat=-3.4209999&amp;deg=0.8" rssowl:id="458196" />
+            </outline>
+            <outline text="Atalaia do Norte" rssowl:isSet="false" rssowl:id="458197">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-73.7984195,-7.2159999,-70.1239999,-4.1280523" rssowl:id="458198" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-73.7984195,-7.2159999,-70.1239999,-4.1280523" rssowl:id="458199" />
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-71.9612097&amp;lat=-5.6720261&amp;deg=1" rssowl:id="458200" />
+            </outline>
+            <outline text="Benjamin Constant" rssowl:isSet="false" rssowl:id="458201">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-71.3429999,-6.7309999,-69.4369999,-4.25454" rssowl:id="458202" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-71.3429999,-6.7309999,-69.4369999,-4.25454" rssowl:id="458203" />
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-70.3899999&amp;lat=-5.4927699&amp;deg=1" rssowl:id="458204" />
+            </outline>
+            <outline text="Fonte Boa" rssowl:isSet="false" rssowl:id="458205">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-67.3089999,-3.1619999,-65.2679999,-1.9299999" rssowl:id="458206" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-67.3089999,-3.1619999,-65.2679999,-1.9299999" rssowl:id="458207" />
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-66.2884999&amp;lat=-2.5459999&amp;deg=1" rssowl:id="458208" />
+            </outline>
+            <outline text="Jutaí" rssowl:isSet="false" rssowl:id="458209">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-70.5709999,-6.6449999,-66.2829999,-2.3669999" rssowl:id="458210" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-70.5709999,-6.6449999,-66.2829999,-2.3669999" rssowl:id="458211" />
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-68.4269999&amp;lat=-4.5059999&amp;deg=1" rssowl:id="458212" />
+            </outline>
+            <outline text="Santo Antônio do Içá" rssowl:isSet="false" rssowl:id="458213">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-69.836141,-3.7219999,-67.7539999,-2.4389999" rssowl:id="458214" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-69.836141,-3.7219999,-67.7539999,-2.4389999" rssowl:id="458215" />
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-68.7950704&amp;lat=-3.0804999&amp;deg=1" rssowl:id="458216" />
+            </outline>
+            <outline text="São Paulo de Olivença" rssowl:isSet="false" rssowl:id="458217">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-70.4449999,-6.3059999,-68.6239999,-3.1679999" rssowl:id="458218" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-70.4449999,-6.3059999,-68.6239999,-3.1679999" rssowl:id="458219" />
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-69.5344999&amp;lat=-4.7369999&amp;deg=1" rssowl:id="458220" />
+            </outline>
+            <outline text="Tabatinga" rssowl:isSet="false" rssowl:id="458221">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-69.950071,-4.3811083,-69.3989999,-3.6859999" rssowl:id="458222" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-69.950071,-4.3811083,-69.3989999,-3.6859999" rssowl:id="458223" />
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-69.6745355&amp;lat=-4.0335541&amp;deg=0.7" rssowl:id="458224" />
+            </outline>
+            <outline text="Tonantins" rssowl:isSet="false" rssowl:id="458225">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-68.7019999,-2.9789999,-67.1379999,-2.1729999" rssowl:id="458226" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-68.7019999,-2.9789999,-67.1379999,-2.1729999" rssowl:id="458227" />
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-67.9199999&amp;lat=-2.5759999&amp;deg=1" rssowl:id="458228" />
+            </outline>
+          </outline>
+          <outline text="Boca do Acre" rssowl:isSet="false" rssowl:id="458229">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-69.2119999,-9.5919999,-67.0569999,-8.0449999" rssowl:id="458230" />
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-69.2119999,-9.5919999,-67.0569999,-8.0449999" rssowl:id="458231" />
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-68.1344999&amp;lat=-8.8184999&amp;deg=1" rssowl:id="458232" />
+          </outline>
+          <outline text="Itacoatiara" rssowl:isSet="false" rssowl:id="458233">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-59.4999999,-4.5059999,-57.2889999,-2.2299999" rssowl:id="458234" />
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-59.4999999,-4.5059999,-57.2889999,-2.2299999" rssowl:id="458235" />
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-58.3944999&amp;lat=-3.3679999&amp;deg=1" rssowl:id="458236" />
+          </outline>
+          <outline text="Madeira" rssowl:isSet="false" rssowl:id="458237">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-59.4999999,-4.5059999,-57.2889999,-2.2299999" rssowl:id="458238" />
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-59.4999999,-4.5059999,-57.2889999,-2.2299999" rssowl:id="458239" />
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-58.3944999&amp;lat=-3.3679999&amp;deg=1" rssowl:id="458240" />
+          </outline>
+          <outline text="Manaus" rssowl:isSet="false" rssowl:id="458241">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-61.4829999,-4.4199999,-58.7869999,-1.9239999" rssowl:id="458242" />
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-61.4829999,-4.4199999,-58.7869999,-1.9239999" rssowl:id="458243" />
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-60.1349999&amp;lat=-3.1719999&amp;deg=1" rssowl:id="458244" />
+          </outline>
+          <outline text="Coari" rssowl:isSet="false" rssowl:id="458245">
+            <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="410168" type="3" />
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-65.8999999,-5.8059999,-60.8029999,-2.1029999" rssowl:id="458246" />
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-65.8999999,-5.8059999,-60.8029999,-2.1029999" rssowl:id="458247" />
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-63.3514999&amp;lat=-3.9544999&amp;deg=1" rssowl:id="458248" />
+          </outline>
+          <outline text="Japura" rssowl:isSet="false" rssowl:id="458249">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-70.0432278,-3.8129999,-63.7539999,0.0689996" rssowl:id="458250" />
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-70.0432278,-3.8129999,-63.7539999,0.0689996" rssowl:id="458251" />
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-66.8986138&amp;lat=-1.8720001&amp;deg=1" rssowl:id="458252" />
+          </outline>
+          <outline text="Parintins" rssowl:isSet="false" rssowl:id="458253">
+            <outline text="Barreirinha" rssowl:isSet="false" rssowl:id="458254">
+              <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="409602" type="3" />
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-57.4929999,-3.6759999,-56.7329999,-2.5889999" rssowl:id="458255" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-57.4929999,-3.6759999,-56.7329999,-2.5889999" rssowl:id="458256" />
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-57.1129999&amp;lat=-3.1324999&amp;deg=1" rssowl:id="458257" />
+            </outline>
+            <outline text="Boa Vista do Ramos" rssowl:isSet="false" rssowl:id="458258">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-58.0729999,-3.5139999,-57.3499999,-2.7999999" rssowl:id="458259" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-58.0729999,-3.5139999,-57.3499999,-2.7999999" rssowl:id="458260" />
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-57.7114999&amp;lat=-3.1569999&amp;deg=0.72" rssowl:id="458261" />
+            </outline>
+            <outline text="Maués" rssowl:isSet="false" rssowl:id="458262">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-58.9179999,-7.3499999,-56.9129999,-3.1329999" rssowl:id="458263" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-58.9179999,-7.3499999,-56.9129999,-3.1329999" rssowl:id="458264" />
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-57.9154999&amp;lat=-5.2414999&amp;deg=1" rssowl:id="458265" />
+            </outline>
+            <outline text="Nhamundá" rssowl:isSet="false" rssowl:id="458266">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-59.1929999,-2.4259999,-56.0969999,0.264" rssowl:id="458267" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-59.1929999,-2.4259999,-56.0969999,0.264" rssowl:id="458268" />
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-57.6449999&amp;lat=-1.0809999&amp;deg=1" rssowl:id="458269" />
+            </outline>
+            <outline text="Parintins" rssowl:isSet="false" rssowl:id="458270">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-57.4289999,-3.3329999,-56.3889999,-2.2419999" rssowl:id="458271" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-57.4289999,-3.3329999,-56.3889999,-2.2419999" rssowl:id="458272" />
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-56.9089999&amp;lat=-2.7874999&amp;deg=1" rssowl:id="458273" />
+            </outline>
+            <outline text="São Sebastião do Uatumã" rssowl:isSet="false" rssowl:id="458274">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-59.5199999,-2.6529999,-57.7719999,-1.1389999" rssowl:id="458275" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-59.5199999,-2.6529999,-57.7719999,-1.1389999" rssowl:id="458276" />
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-58.6459999&amp;lat=-1.8959999&amp;deg=1" rssowl:id="458277" />
+            </outline>
+            <outline text="Urucará" rssowl:isSet="false" rssowl:id="458278">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-60.2299999,-2.7629999,-57.3279999,0.264" rssowl:id="458279" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-60.2299999,-2.7629999,-57.3279999,0.264" rssowl:id="458280" />
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-58.7789999&amp;lat=-1.2495&amp;deg=1" rssowl:id="458281" />
+            </outline>
+          </outline>
+          <outline text="Rio Negro" rssowl:isSet="false" rssowl:id="458282">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-49.9407337,-26.2373704,-48.9504257,-25.7432117" rssowl:id="458283" />
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-49.9407337,-26.2373704,-48.9504257,-25.7432117" rssowl:id="458284" />
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-49.4455797&amp;lat=-25.990291&amp;deg=0.99" rssowl:id="458285">
+              <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="409782" type="3" />
+            </outline>
+          </outline>
+          <outline text="Rio Preto da Eva" rssowl:isSet="false" rssowl:id="458286">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-60.9639999,-2.9719999,-59.0819999,0.039" rssowl:id="458287" />
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-60.9639999,-2.9719999,-59.0819999,0.039" rssowl:id="458288" />
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-60.0229999&amp;lat=-1.4664999&amp;deg=1" rssowl:id="458289" />
+          </outline>
+          <outline text="Tefé" rssowl:isSet="false" rssowl:id="458290">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-66.9729999,-5.5589999,-64.0709999,-2.2799999" rssowl:id="458291" />
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-66.9729999,-5.5589999,-64.0709999,-2.2799999" rssowl:id="458292" />
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-65.5219999&amp;lat=-3.9194999&amp;deg=1" rssowl:id="458293" />
+          </outline>
+          <outline text="Juruá" rssowl:isSet="false" rssowl:id="458294">
+            <outline text="Carauari" rssowl:isSet="false" rssowl:id="458295">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-68.3119999,-6.0509999,-65.9499999,-4.2939999" rssowl:id="458296" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-68.3119999,-6.0509999,-65.9499999,-4.2939999" rssowl:id="458297" />
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-67.1309999&amp;lat=-5.1724999&amp;deg=1" rssowl:id="458298" />
+            </outline>
+            <outline text="Eurinepé" rssowl:isSet="false" rssowl:id="458299">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-71.3809999,-7.7259999,-69.3329999,-6.3559999" rssowl:id="458300" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-71.3809999,-7.7259999,-69.3329999,-6.3559999" rssowl:id="458301" />
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-70.3569999&amp;lat=-7.0409999&amp;deg=1" rssowl:id="458302" />
+            </outline>
+            <outline text="Envira" rssowl:isSet="false" rssowl:id="458303">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-71.0879999,-8.0609999,-69.4739999,-7.1729999" rssowl:id="458304" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-71.0879999,-8.0609999,-69.4739999,-7.1729999" rssowl:id="458305" />
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-70.2809999&amp;lat=-7.6169999&amp;deg=1" rssowl:id="458306" />
+            </outline>
+            <outline text="Guajará" rssowl:isSet="false" rssowl:id="458307">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-73.7379999,-7.5999999,-72.0449999,-6.9029999" rssowl:id="458308" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-73.7379999,-7.5999999,-72.0449999,-6.9029999" rssowl:id="458309" />
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-72.8914999&amp;lat=-7.2514999&amp;deg=1" rssowl:id="458310" />
+            </outline>
+            <outline text="Ipixuna" rssowl:isSet="false" rssowl:id="458311">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-72.1829999,-7.6919999,-70.6459999,-6.5949999" rssowl:id="458312" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-72.1829999,-7.6919999,-70.6459999,-6.5949999" rssowl:id="458313" />
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-71.4144999&amp;lat=-7.1434999&amp;deg=1" rssowl:id="458314" />
+            </outline>
+            <outline text="Itamarati" rssowl:isSet="false" rssowl:id="458315">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-69.5369999,-7.4099999,-66.3539999,-6.0429999" rssowl:id="458316" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-69.5369999,-7.4099999,-66.3539999,-6.0429999" rssowl:id="458317" />
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-67.9454999&amp;lat=-6.7264999&amp;deg=1" rssowl:id="458318" />
+            </outline>
+            <outline text="Juruá" rssowl:isSet="false" rssowl:id="458319">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-67.1949999,-4.3039999,-65.2529999,-2.4449999" rssowl:id="458320" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-67.1949999,-4.3039999,-65.2529999,-2.4449999" rssowl:id="458321" />
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-66.2239999&amp;lat=-3.3744999&amp;deg=1" rssowl:id="458322" />
+            </outline>
+          </outline>
+          <outline text="Purus" rssowl:isSet="false" rssowl:id="458323">
+            <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="410171" type="3" />
+            <outline text="Canutama" rssowl:isSet="false" rssowl:id="458324">
+              <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="410171" type="3" />
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-65.0389999,-8.9959999,-63.1349999,-5.9159999" rssowl:id="458325">
+                <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="410171" type="3" />
+              </outline>
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-65.0389999,-8.9959999,-63.1349999,-5.9159999" rssowl:id="458326">
+                <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="410171" type="3" />
+              </outline>
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-64.0869999&amp;lat=-7.4559999&amp;deg=1" rssowl:id="458327">
+                <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="410171" type="3" />
+              </outline>
+            </outline>
+            <outline text="Lábrea" rssowl:isSet="false" rssowl:id="458328">
+              <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="410171" type="3" />
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-67.4999999,-9.8179999,-64.3289999,-6.9479999" rssowl:id="458329">
+                <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="410171" type="3" />
+              </outline>
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-67.4999999,-9.8179999,-64.3289999,-6.9479999" rssowl:id="458330">
+                <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="410171" type="3" />
+              </outline>
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-65.9144999&amp;lat=-8.3829999&amp;deg=1" rssowl:id="458331">
+                <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="410171" type="3" />
+              </outline>
+            </outline>
+            <outline text="Tapauá" rssowl:isSet="false" rssowl:id="458332">
+              <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="410171" type="3" />
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-67.7969999,-7.3449999,-62.1019999,-4.5229999" rssowl:id="458333">
+                <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="410171" type="3" />
+              </outline>
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-67.7969999,-7.3449999,-62.1019999,-4.5229999" rssowl:id="458334">
+                <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="410171" type="3" />
+              </outline>
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-64.9494999&amp;lat=-5.9339999&amp;deg=1" rssowl:id="458335">
+                <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="410171" type="3" />
+              </outline>
+            </outline>
+          </outline>
+        </outline>
+        <outline text="Bahia" rssowl:isSet="false" rssowl:id="458336">
+          <outline text="Centro-Norte Bahiano" rssowl:isSet="false" rssowl:id="458337">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-42.9129999,-13.0949999,-38.5249999,-9.7875702" rssowl:id="458338" />
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-42.9129999,-13.0949999,-38.5249999,-9.7875702" rssowl:id="458339" />
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-40.7189999&amp;lat=-11.441285&amp;deg=1" rssowl:id="458340" />
+          </outline>
+          <outline text="Centro-Sul Bahiano" rssowl:isSet="false" rssowl:id="458341">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-43.8874698,-16.0060822,-39.1216996,-11.7079999" rssowl:id="458342" />
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-43.8874698,-16.0060822,-39.1216996,-11.7079999" rssowl:id="458343" />
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-41.5045847&amp;lat=-13.857041&amp;deg=1" rssowl:id="458344" />
+          </outline>
+          <outline text="Extremo Oeste" rssowl:isSet="false" rssowl:id="458345">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-46.6169999,-15.2643866,-43.2383955,-10.1079999" rssowl:id="458346" />
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-46.6169999,-15.2643866,-43.2383955,-10.1079999" rssowl:id="458347">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-44.9276977&amp;lat=-12.6861932&amp;deg=1" rssowl:id="458348" />
+          </outline>
+          <outline text="Metrópole" rssowl:isSet="false" rssowl:id="458349">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-38.6991286,-13.0173948,-38.303414,-12.7319999" rssowl:id="458350" />
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-38.6991286,-13.0173948,-38.303414,-12.7319999" rssowl:id="458351" />
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-38.5012713&amp;lat=-12.8746973&amp;deg=0.4" rssowl:id="458352" />
+          </outline>
+          <outline text="Nordeste" rssowl:isSet="false" rssowl:id="458353">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-40.0574157,-12.4073833,-37.3425239,-9.582124" rssowl:id="458354" />
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-40.0574157,-12.4073833,-37.3425239,-9.582124" rssowl:id="458355" />
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-38.6999698&amp;lat=-10.9947536&amp;deg=1" rssowl:id="458356" />
+          </outline>
+          <outline text="Sul" rssowl:isSet="false" rssowl:id="458357">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-40.6233469,-18.3342262,-38.8538472,-13.1990743" rssowl:id="458358" />
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-40.6233469,-18.3342262,-38.8538472,-13.1990743" rssowl:id="458359" />
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-39.738597&amp;lat=-15.7666502&amp;deg=1" rssowl:id="458360" />
+          </outline>
+          <outline text="Vale do São Francisco" rssowl:isSet="false" rssowl:id="458361">
+            <outline text="Barra" rssowl:isSet="false" rssowl:id="458362">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-41.159267,-3.491999,-41.119267,-3.451999" rssowl:id="458363" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-41.159267,-3.491999,-41.119267,-3.451999" rssowl:id="458364" />
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-41.139267&amp;lat=-3.471999&amp;deg=0.04" rssowl:id="458365" />
+            </outline>
+            <outline text="Bom Jesus da Lapa" rssowl:isSet="false" rssowl:id="458366">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-44.4847491,-14.3386225,-42.8849999,-12.3269999" rssowl:id="458367" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-44.4847491,-14.3386225,-42.8849999,-12.3269999" rssowl:id="458368" />
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-43.6848745&amp;lat=-13.3328112&amp;deg=1" rssowl:id="458369" />
+            </outline>
+            <outline text="Juazeiro" rssowl:isSet="false" rssowl:id="458370">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-43.9094624,-10.8916323,-39.3519999,-8.5260055" rssowl:id="458371" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-43.9094624,-10.8916323,-39.3519999,-8.5260055" rssowl:id="458372" />
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-41.6307311&amp;lat=-9.7088189&amp;deg=1" rssowl:id="458373" />
+            </outline>
+            <outline text="Paulo Afonso" rssowl:isSet="false" rssowl:id="458374">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-39.488789,-9.7201036,-37.9987307,-8.5447495" rssowl:id="458375" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-39.488789,-9.7201036,-37.9987307,-8.5447495" rssowl:id="458376" />
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-38.7437599&amp;lat=-9.1324265&amp;deg=1" rssowl:id="458377" />
+            </outline>
+          </outline>
+        </outline>
+        <outline text="Ceará" rssowl:isSet="false" rssowl:id="458378">
+          <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-41.4229999,-7.8579999,-37.078742,-2.5753048" rssowl:id="458379">
+            <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="411388" type="3" />
+            <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Ligação Expirou" type="5" />
+          </outline>
+          <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-41.4229999,-7.8579999,-37.078742,-2.5753048" rssowl:id="458380" />
+          <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-39.2508709&amp;lat=-5.2166524&amp;deg=1" rssowl:id="458381" />
+        </outline>
+        <outline text="Distrito Federal" rssowl:isSet="false" rssowl:id="458382">
+          <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-48.285791,-16.0502642,-47.3083869,-15.5002537" rssowl:id="458383" />
+          <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-48.285791,-16.0502642,-47.3083869,-15.5002537" rssowl:id="458384" />
+          <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-47.7970889&amp;lat=-15.7752589&amp;deg=0.98" rssowl:id="458385" />
+        </outline>
+        <outline text="Espírito Santo" rssowl:isSet="false" rssowl:id="458386">
+          <outline text="Continente" rssowl:isSet="false" rssowl:id="458387">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-41.879921,-21.4750732,-39.3695068,-17.8689753" rssowl:id="458388" />
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-41.879921,-21.4750732,-39.3695068,-17.8689753" rssowl:id="458389" />
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-40.6247139&amp;lat=-19.6720242&amp;deg=1" rssowl:id="458390">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+          </outline>
+          <outline text="Ilhas Goaibeiras" rssowl:isSet="false" rssowl:id="458391">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-29.8388672,-20.8588118,-28.4545898,-20.1797235" rssowl:id="458392" />
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-29.8388672,-20.8588118,-28.4545898,-20.1797235" rssowl:id="458393" />
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-29.1467285&amp;lat=-20.5192677&amp;deg=1" rssowl:id="458394" />
+          </outline>
+        </outline>
+        <outline text="Goiás" rssowl:isSet="false" rssowl:id="458395">
+          <outline text="Centro" rssowl:isSet="false" rssowl:id="458396">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-51.4389999,-17.1939999,-48.6376336,-14.1999999" rssowl:id="458397">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Ligação Expirou" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-51.4389999,-17.1939999,-48.6376336,-14.1999999" rssowl:id="458398" />
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-50.0383167&amp;lat=-15.6969999&amp;deg=1" rssowl:id="458399" />
+          </outline>
+          <outline text="Leste" rssowl:isSet="false" rssowl:id="458400">
+            <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="418580" type="3" />
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-49.2169999,-17.3561368,-45.9066327,-13.0549999" rssowl:id="458401">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Ligação Expirou" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-49.2169999,-17.3561368,-45.9066327,-13.0549999" rssowl:id="458402">
+              <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="414134" type="3" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-47.5618163&amp;lat=-15.2055683&amp;deg=1" rssowl:id="458403" />
+          </outline>
+          <outline text="Noroeste" rssowl:isSet="false" rssowl:id="458404">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-52.6935901,-16.6579999,-49.3689999,-12.3982876" rssowl:id="458405">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Ligação Expirou" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-52.6935901,-16.6579999,-49.3689999,-12.3982876" rssowl:id="458406" />
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-51.031295&amp;lat=-14.5281437&amp;deg=1" rssowl:id="458407" />
+          </outline>
+          <outline text="Norte" rssowl:isSet="false" rssowl:id="458408">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-50.2749999,-15.0169999,-46.1118546,-12.7899999" rssowl:id="458409">
+              <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="411845" type="3" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-50.2749999,-15.0169999,-46.1118546,-12.7899999" rssowl:id="458410">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Fonte RSS Inválida ou Mal Formatada" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-48.1934272&amp;lat=-13.9034999&amp;deg=1" rssowl:id="458411" />
+          </outline>
+          <outline text="Sul" rssowl:isSet="false" rssowl:id="458412">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-53.2509999,-19.4989999,-47.2642552,-16.2799068" rssowl:id="458413">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Ligação Expirou" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-53.2509999,-19.4989999,-47.2642552,-16.2799068" rssowl:id="458414">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Ligação Expirou" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-50.2576275&amp;lat=-17.8894533&amp;deg=1" rssowl:id="458415" />
+          </outline>
+        </outline>
+        <outline text="Maranhão" rssowl:isSet="false" rssowl:id="458416">
+          <outline text="Centro" rssowl:isSet="false" rssowl:id="458417">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-46.7939999,-6.9119999,-43.7839999,-3.7099999" rssowl:id="458418">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Ligação Expirou" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-46.7939999,-6.9119999,-43.7839999,-3.7099999" rssowl:id="458419">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-45.2889999&amp;lat=-5.3109999&amp;deg=1" rssowl:id="458420" />
+          </outline>
+          <outline text="Leste" rssowl:isSet="false" rssowl:id="458421">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-45.8509999,-7.000359,-41.7959999,-2.6839999" rssowl:id="458422">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Ligação Expirou" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-45.8509999,-7.000359,-41.7959999,-2.6839999" rssowl:id="458423">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-43.8234999&amp;lat=-4.8421794&amp;deg=1" rssowl:id="458424" />
+          </outline>
+          <outline text="Norte" rssowl:isSet="false" rssowl:id="458425">
+            <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="415478" type="3" />
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-45.6409999,-3.9999999,-42.1159999,-1.2653889" rssowl:id="458426">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-45.6409999,-3.9999999,-42.1159999,-1.2653889" rssowl:id="458427">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-43.8784999&amp;lat=-2.6326944&amp;deg=1" rssowl:id="458428" />
+          </outline>
+          <outline text="Oeste" rssowl:isSet="false" rssowl:id="458429">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-48.7551324,-6.2399999,-45.0398597,-1.0472256" rssowl:id="458430">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-48.7551324,-6.2399999,-45.0398597,-1.0472256" rssowl:id="458431">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-46.897496&amp;lat=-3.6436127&amp;deg=1" rssowl:id="458432" />
+          </outline>
+          <outline text="Sul" rssowl:isSet="false" rssowl:id="458433">
+            <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="414159" type="3" />
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-47.7496016,-10.2620377,-44.2473912,-6.0679999" rssowl:id="458434">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-47.7496016,-10.2620377,-44.2473912,-6.0679999" rssowl:id="458435">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-45.9984964&amp;lat=-8.1650188&amp;deg=1" rssowl:id="458436">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+          </outline>
+        </outline>
+        <outline text="Mato Grosso" rssowl:isSet="false" rssowl:id="458437">
+          <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="415483" type="3" />
+          <outline text="Centro-Sul" rssowl:isSet="false" rssowl:id="458438">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-58.7959999,-17.9036848,-54.8069999,-14.1319999" rssowl:id="458439">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-58.7959999,-17.9036848,-54.8069999,-14.1319999" rssowl:id="458440">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-56.8014999&amp;lat=-16.0178424&amp;deg=1" rssowl:id="458441" />
+          </outline>
+          <outline text="Nordeste" rssowl:isSet="false" rssowl:id="458442">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-54.1949999,-15.9109999,-50.2075676,-9.6819999" rssowl:id="458443">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-54.1949999,-15.9109999,-50.2075676,-9.6819999" rssowl:id="458444">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-52.2012837&amp;lat=-12.7964999&amp;deg=1" rssowl:id="458445" />
+          </outline>
+          <outline text="Norte" rssowl:isSet="false" rssowl:id="458446">
+            <outline text="Alta Floresta" rssowl:isSet="false" rssowl:id="458447">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-58.6680206,-10.6829999,-55.5568351,-7.3482932" rssowl:id="458448">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-58.6680206,-10.6829999,-55.5568351,-7.3482932" rssowl:id="458449">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-57.1124278&amp;lat=-9.0156465&amp;deg=1" rssowl:id="458450" />
+            </outline>
+            <outline text="Alto Teles Pires" rssowl:isSet="false" rssowl:id="458451">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-57.1442987,-14.7689999,-53.7789999,-11.4279999" rssowl:id="458452" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-57.1442987,-14.7689999,-53.7789999,-11.4279999" rssowl:id="458453">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-55.4616493&amp;lat=-13.0984999&amp;deg=1" rssowl:id="458454">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+            </outline>
+            <outline text="Arinos" rssowl:isSet="false" rssowl:id="458455">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-58.4189999,-13.9169999,-55.7849999,-10.2489999" rssowl:id="458456" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-58.4189999,-13.9169999,-55.7849999,-10.2489999" rssowl:id="458457">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-57.1019999&amp;lat=-12.0829999&amp;deg=1" rssowl:id="458458" />
+            </outline>
+            <outline text="Aripuanã" rssowl:isSet="false" rssowl:id="458459">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-61.6329999,-13.2549657,-57.2926817,-8.7959999" rssowl:id="458460">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-61.6329999,-13.2549657,-57.2926817,-8.7959999" rssowl:id="458461">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-59.4628408&amp;lat=-11.0254828&amp;deg=1" rssowl:id="458462" />
+            </outline>
+            <outline text="Colíder" rssowl:isSet="false" rssowl:id="458463">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-56.5945199,-11.1069999,-52.6199999,-9.4310012" rssowl:id="458464">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-56.5945199,-11.1069999,-52.6199999,-9.4310012" rssowl:id="458465">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-54.6072599&amp;lat=-10.2690006&amp;deg=1" rssowl:id="458466" />
+            </outline>
+            <outline text="Paranatinga" rssowl:isSet="false" rssowl:id="458467">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-55.1008165,-14.7302144,-53.2242667,-11.9489999" rssowl:id="458468" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-55.1008165,-14.7302144,-53.2242667,-11.9489999" rssowl:id="458469">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-54.1625416&amp;lat=-13.3396071&amp;deg=1" rssowl:id="458470" />
+            </outline>
+            <outline text="Parecis" rssowl:isSet="false" rssowl:id="458471">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-60.7153655,-14.6864603,-55.9769999,-11.9178027" rssowl:id="458472">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-60.7153655,-14.6864603,-55.9769999,-11.9178027" rssowl:id="458473">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-58.3461827&amp;lat=-13.3021315&amp;deg=1" rssowl:id="458474" />
+            </outline>
+            <outline text="Sinop" rssowl:isSet="false" rssowl:id="458475">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-56.3219999,-12.8549999,-53.0979999,-10.4329999" rssowl:id="458476" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-56.3219999,-12.8549999,-53.0979999,-10.4329999" rssowl:id="458477">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-54.7099999&amp;lat=-11.6439999&amp;deg=1" rssowl:id="458478">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+            </outline>
+          </outline>
+          <outline text="Sudeste" rssowl:isSet="false" rssowl:id="458479">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-55.6038355,-18.0415596,-52.2520924,-14.6039621" rssowl:id="458480">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-55.6038355,-18.0415596,-52.2520924,-14.6039621" rssowl:id="458481">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-53.9279639&amp;lat=-16.3227609&amp;deg=1" rssowl:id="458482" />
+          </outline>
+          <outline text="Sudoeste" rssowl:isSet="false" rssowl:id="458483">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-60.5754296,-16.3059999,-56.7169999,-13.9821776" rssowl:id="458484">
+              <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="427906" type="3" />
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-60.5754296,-16.3059999,-56.7169999,-13.9821776" rssowl:id="458485">
+              <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="414424" type="3" />
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-58.6462147&amp;lat=-15.1440887&amp;deg=1" rssowl:id="458486" />
+          </outline>
+        </outline>
+        <outline text="Mato Grosso do Sul" rssowl:isSet="false" rssowl:id="458487">
+          <outline text="Centro-Norte" rssowl:isSet="false" rssowl:id="458488">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-55.4642633,-21.5869999,-53.2199999,-17.2279999" rssowl:id="458489">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-55.4642633,-21.5869999,-53.2199999,-17.2279999" rssowl:id="458490">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-54.3421316&amp;lat=-19.4074999&amp;deg=1" rssowl:id="458491" />
+          </outline>
+          <outline text="Leste" rssowl:isSet="false" rssowl:id="458492">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-54.205786,-23.0029999,-50.9229999,-18.0069999" rssowl:id="458493">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-54.205786,-23.0029999,-50.9229999,-18.0069999" rssowl:id="458494">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-52.5643929&amp;lat=-20.5049999&amp;deg=1" rssowl:id="458495" />
+          </outline>
+          <outline text="Pantanais" rssowl:isSet="false" rssowl:id="458496">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-58.1693224,-22.1818118,-55.0649999,-17.1674533" rssowl:id="458497">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-58.1693224,-22.1818118,-55.0649999,-17.1674533" rssowl:id="458498">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-56.6171611&amp;lat=-19.6746325&amp;deg=1" rssowl:id="458499" />
+          </outline>
+          <outline text="Sudoeste" rssowl:isSet="false" rssowl:id="458500">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-57.515796,-24.0733563,-53.4833998,-20.1799999" rssowl:id="458501">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-57.515796,-24.0733563,-53.4833998,-20.1799999" rssowl:id="458502">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-55.4995979&amp;lat=-22.1266781&amp;deg=1" rssowl:id="458503" />
+          </outline>
+        </outline>
+        <outline text="Minas Gerais" rssowl:isSet="false" rssowl:id="458504">
+          <outline text="Campo das Vertentes" rssowl:isSet="false" rssowl:id="458505">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-45.3989999,-21.7311242,-43.4179999,-20.7119999" rssowl:id="458506">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-45.3989999,-21.7311242,-43.4179999,-20.7119999" rssowl:id="458507">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-44.4084999&amp;lat=-21.221562&amp;deg=1" rssowl:id="458508">
+              <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="415816" type="3" />
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+          </outline>
+          <outline text="Central Mineira" rssowl:isSet="false" rssowl:id="458509">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-45.9469999,-20.2052532,-43.7619999,-17.4279999" rssowl:id="458510">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-45.9469999,-20.2052532,-43.7619999,-17.4279999" rssowl:id="458511">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-44.8544999&amp;lat=-18.8166266&amp;deg=1" rssowl:id="458512" />
+          </outline>
+          <outline text="Jequitinhonha" rssowl:isSet="false" rssowl:id="458513">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-44.0879999,-18.7159999,-39.8567834,-15.6465504" rssowl:id="458514">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-44.0879999,-18.7159999,-39.8567834,-15.6465504" rssowl:id="458515">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-41.9723916&amp;lat=-17.1812751&amp;deg=1" rssowl:id="458516" />
+          </outline>
+          <outline text="Metropolitana" rssowl:isSet="false" rssowl:id="458517">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-45.0135624,-20.9269999,-42.4739999,-18.0689999" rssowl:id="458518">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-45.0135624,-20.9269999,-42.4739999,-18.0689999" rssowl:id="458519">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-43.7437812&amp;lat=-19.4979999&amp;deg=1" rssowl:id="458520" />
+          </outline>
+          <outline text="Noroeste" rssowl:isSet="false" rssowl:id="458521">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-47.5414989,-18.5959999,-45.1799999,-14.7039999" rssowl:id="458522">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-47.5414989,-18.5959999,-45.1799999,-14.7039999" rssowl:id="458523">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-46.3607494&amp;lat=-16.6499999&amp;deg=1" rssowl:id="458524" />
+          </outline>
+          <outline text="Norte" rssowl:isSet="false" rssowl:id="458525">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-46.2779999,-18.1519999,-41.3273149,-14.231821" rssowl:id="458526">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-46.2779999,-18.1519999,-41.3273149,-14.231821" rssowl:id="458527">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-43.8026574&amp;lat=-16.1919105&amp;deg=1" rssowl:id="458528" />
+          </outline>
+          <outline text="Oeste" rssowl:isSet="false" rssowl:id="458529">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-46.9299999,-21.2368252,-44.2999999,-19.6059999" rssowl:id="458530">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-46.9299999,-21.2368252,-44.2999999,-19.6059999" rssowl:id="458531">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-45.6149999&amp;lat=-20.4214125&amp;deg=1" rssowl:id="458532">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+          </outline>
+          <outline text="Sul e Sudoeste" rssowl:isSet="false" rssowl:id="458533">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-47.2981132,-22.9219999,-43.9769999,-20.1699999" rssowl:id="458534">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-47.2981132,-22.9219999,-43.9769999,-20.1699999" rssowl:id="458535">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-45.6375565&amp;lat=-21.5459999&amp;deg=1" rssowl:id="458536">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+          </outline>
+          <outline text="Triângulo Mineiro e Alto Paranaíba" rssowl:isSet="false" rssowl:id="458537">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-51.0449999,-20.4409999,-45.6169999,-17.9249999" rssowl:id="458538">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-51.0449999,-20.4409999,-45.6169999,-17.9249999" rssowl:id="458539">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-48.3309999&amp;lat=-19.1829999&amp;deg=1" rssowl:id="458540">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+          </outline>
+          <outline text="Vale do Mucuri" rssowl:isSet="false" rssowl:id="458541">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-42.2879999,-18.5009999,-40.1739999,-16.7839999" rssowl:id="458542">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-42.2879999,-18.5009999,-40.1739999,-16.7839999" rssowl:id="458543">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-41.2309999&amp;lat=-17.6424999&amp;deg=1" rssowl:id="458544" />
+          </outline>
+          <outline text="Vale do Rio Doce" rssowl:isSet="false" rssowl:id="458545">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-43.2949999,-20.2069019,-40.907704,-17.7659999" rssowl:id="458546">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-43.2949999,-20.2069019,-40.907704,-17.7659999" rssowl:id="458547">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-42.1013519&amp;lat=-18.9864509&amp;deg=1" rssowl:id="458548">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+          </outline>
+          <outline text="Zona da Mata" rssowl:isSet="false" rssowl:id="458549">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-44.2239999,-22.2332928,-41.4111688,-19.8279999" rssowl:id="458550">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-44.2239999,-22.2332928,-41.4111688,-19.8279999" rssowl:id="458551">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-42.8175844&amp;lat=-21.0306463&amp;deg=1" rssowl:id="458552" />
+          </outline>
+        </outline>
+        <outline text="Pará" rssowl:isSet="false" rssowl:id="458553">
+          <outline text="Baixo Amazonas" rssowl:isSet="false" rssowl:id="458554">
+            <outline text="Almeirim" rssowl:isSet="false" rssowl:id="458555">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-55.7041669,-2.8302467,-51.7782035,2.5909298" rssowl:id="458556">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-55.7041669,-2.8302467,-51.7782035,2.5909298" rssowl:id="458557">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-53.7411852&amp;lat=-0.1196584&amp;deg=1" rssowl:id="458558" />
+            </outline>
+            <outline text="Óbidos" rssowl:isSet="false" rssowl:id="458559">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-58.8969999,-3.3575179,-55.0698242,2.5334471" rssowl:id="458560">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-58.8969999,-3.3575179,-55.0698242,2.5334471" rssowl:id="458561">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-56.983412&amp;lat=-0.4120354&amp;deg=1" rssowl:id="458562" />
+            </outline>
+            <outline text="Santarém" rssowl:isSet="false" rssowl:id="458563">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-56.3445555,-4.4686265,-52.9667208,1.5501996" rssowl:id="458564">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-56.3445555,-4.4686265,-52.9667208,1.5501996" rssowl:id="458565">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-54.6556381&amp;lat=-1.4592134&amp;deg=1" rssowl:id="458566" />
+            </outline>
+          </outline>
+          <outline text="Marajó" rssowl:isSet="false" rssowl:id="458567">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-52.2518347,-3.4950621,-47.0575895,0.706" rssowl:id="458568">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-52.2518347,-3.4950621,-47.0575895,0.706" rssowl:id="458569">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-49.6547121&amp;lat=-1.3945311&amp;deg=1" rssowl:id="458570" />
+          </outline>
+          <outline text="Metropolitana" rssowl:isSet="false" rssowl:id="458571">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-48.8373951,-1.8413359,-47.6384283,-0.9825024" rssowl:id="458572">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-48.8373951,-1.8413359,-47.6384283,-0.9825024" rssowl:id="458573">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-48.2379117&amp;lat=-1.4119192&amp;deg=1" rssowl:id="458574">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+          </outline>
+          <outline text="Nordeste" rssowl:isSet="false" rssowl:id="458575">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-50.1314744,-3.6735669,-46.0633683,-0.702958" rssowl:id="458576">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-50.1314744,-3.6735669,-46.0633683,-0.702958" rssowl:id="458577">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-48.0974214&amp;lat=-2.1882624&amp;deg=1" rssowl:id="458578">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+          </outline>
+          <outline text="Sudeste" rssowl:isSet="false" rssowl:id="458579">
+            <outline text="Conceição do Araguaia" rssowl:isSet="false" rssowl:id="458580">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-51.3107987,-9.8390247,-49.1479999,-7.1298251" rssowl:id="458581">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-51.3107987,-9.8390247,-49.1479999,-7.1298251" rssowl:id="458582">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-50.2293993&amp;lat=-8.4844249&amp;deg=1" rssowl:id="458583" />
+            </outline>
+            <outline text="Marabá" rssowl:isSet="false" rssowl:id="458584">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-51.3996654,-6.2177536,-48.1322342,-4.8330883" rssowl:id="458585">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-51.3996654,-6.2177536,-48.1322342,-4.8330883" rssowl:id="458586">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-49.7659498&amp;lat=-5.5254209&amp;deg=1" rssowl:id="458587" />
+            </outline>
+            <outline text="Paragominas" rssowl:isSet="false" rssowl:id="458588">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-49.6068336,-5.3491791,-46.4179271,-2.410561" rssowl:id="458589">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-49.6068336,-5.3491791,-46.4179271,-2.410561" rssowl:id="458590">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-48.0123803&amp;lat=-3.87987&amp;deg=1" rssowl:id="458591" />
+            </outline>
+            <outline text="Parauapebas" rssowl:isSet="false" rssowl:id="458592">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-51.1989396,-7.2527981,-48.8522219,-5.786363" rssowl:id="458593">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-51.1989396,-7.2527981,-48.8522219,-5.786363" rssowl:id="458594">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-50.0255808&amp;lat=-6.5195805&amp;deg=1" rssowl:id="458595" />
+            </outline>
+            <outline text="Redenção" rssowl:isSet="false" rssowl:id="458596">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-50.6124976,-8.3985851,-48.3752797,-5.8600633" rssowl:id="458597">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-50.6124976,-8.3985851,-48.3752797,-5.8600633" rssowl:id="458598">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-49.4938886&amp;lat=-7.1293242&amp;deg=1" rssowl:id="458599" />
+            </outline>
+            <outline text="São Félix do Xingu" rssowl:isSet="false" rssowl:id="458600">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-53.4696426,-9.7719999,-50.34133,-5.1502432" rssowl:id="458601">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-53.4696426,-9.7719999,-50.34133,-5.1502432" rssowl:id="458602">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-51.9054863&amp;lat=-7.4611215&amp;deg=1" rssowl:id="458603" />
+            </outline>
+            <outline text="Tucuruí" rssowl:isSet="false" rssowl:id="458604">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-50.9961149,-5.466972,-48.9235453,-3.4125398" rssowl:id="458605">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-50.9961149,-5.466972,-48.9235453,-3.4125398" rssowl:id="458606">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-49.9598301&amp;lat=-4.4397559&amp;deg=1" rssowl:id="458607" />
+            </outline>
+          </outline>
+          <outline text="Sudoeste" rssowl:isSet="false" rssowl:id="458608">
+            <outline text="Altamira Norte" rssowl:isSet="false" rssowl:id="458609">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-55.6072998,-5.6815837,-49.8032221,-2.493201" rssowl:id="458610">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-55.6072998,-5.6815837,-49.8032221,-2.493201" rssowl:id="458611">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-52.7052609&amp;lat=-4.0873923&amp;deg=1" rssowl:id="458612" />
+            </outline>
+            <outline text="Altamira Sul" rssowl:isSet="false" rssowl:id="458613">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-55.623804,-9.6449999,-49.7900391,-5.6214526" rssowl:id="458614">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-55.623804,-9.6449999,-49.7900391,-5.6214526" rssowl:id="458615">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-52.7069216&amp;lat=-7.6332262&amp;deg=1" rssowl:id="458616" />
+            </outline>
+            <outline text="Itaituba" rssowl:isSet="false" rssowl:id="458617">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-58.4799999,-9.5349999,-54.6129999,-3.221206" rssowl:id="458618" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-58.4799999,-9.5349999,-54.6129999,-3.221206" rssowl:id="458619">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-56.5464999&amp;lat=-6.378103&amp;deg=1" rssowl:id="458620" />
+            </outline>
+          </outline>
+        </outline>
+        <outline text="Paraíba" rssowl:isSet="false" rssowl:id="458621">
+          <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="419461" type="3" />
+          <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-38.7649999,-8.3029999,-34.5995313,-6.0259999" rssowl:id="458622">
+            <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="417912" type="3" />
+            <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+          </outline>
+          <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-38.7649999,-8.3029999,-34.5995313,-6.0259999" rssowl:id="458623">
+            <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="418087" type="3" />
+            <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+          </outline>
+          <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-36.6822656&amp;lat=-7.1644999&amp;deg=1" rssowl:id="458624">
+            <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+          </outline>
+        </outline>
+        <outline text="Paraná" rssowl:isSet="false" rssowl:id="458625">
+          <outline text="Centro Ocidental" rssowl:isSet="false" rssowl:id="458626">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-53.2902711,-24.9319999,-51.8887597,-23.5524919" rssowl:id="458627">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-53.2902711,-24.9319999,-51.8887597,-23.5524919" rssowl:id="458628">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-52.5895154&amp;lat=-24.2422459&amp;deg=1" rssowl:id="458629">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+          </outline>
+          <outline text="Centro Oriental" rssowl:isSet="false" rssowl:id="458630">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-51.3745539,-25.6519641,-49.1999999,-23.7948103" rssowl:id="458631">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-51.3745539,-25.6519641,-49.1999999,-23.7948103" rssowl:id="458632">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-50.2872769&amp;lat=-24.7233872&amp;deg=1" rssowl:id="458633" />
+          </outline>
+          <outline text="Centro Sul" rssowl:isSet="false" rssowl:id="458634">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-53.1519999,-26.600144,-50.9599999,-24.4480675" rssowl:id="458635">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-53.1519999,-26.600144,-50.9599999,-24.4480675" rssowl:id="458636">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-52.0559999&amp;lat=-25.5241057&amp;deg=1" rssowl:id="458637" />
+          </outline>
+          <outline text="Norte Pioneiro" rssowl:isSet="false" rssowl:id="458638">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-51.0103361,-24.1219999,-49.5483867,-22.7819999" rssowl:id="458639">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-51.0103361,-24.1219999,-49.5483867,-22.7819999" rssowl:id="458640">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-50.2793614&amp;lat=-23.4519999&amp;deg=1" rssowl:id="458641" />
+          </outline>
+          <outline text="Metropolitana" rssowl:isSet="false" rssowl:id="458642">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-49.3889999,-25.6449999,-49.1843181,-25.3439999" rssowl:id="458643">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-49.3889999,-25.6449999,-49.1843181,-25.3439999" rssowl:id="458644">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-49.286659&amp;lat=-25.4944999&amp;deg=0.3" rssowl:id="458645">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+          </outline>
+          <outline text="Noroeste" rssowl:isSet="false" rssowl:id="458646">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-54.1679999,-24.2611481,-51.9958852,-22.5159999" rssowl:id="458647">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-54.1679999,-24.2611481,-51.9958852,-22.5159999" rssowl:id="458648">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-53.0819425&amp;lat=-23.388574&amp;deg=1" rssowl:id="458649">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+          </outline>
+          <outline text="Norte" rssowl:isSet="false" rssowl:id="458650">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-52.4221637,-24.9702569,-50.8755782,-22.5397651" rssowl:id="458651">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-52.4221637,-24.9702569,-50.8755782,-22.5397651" rssowl:id="458652">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-51.6488709&amp;lat=-23.755011&amp;deg=1" rssowl:id="458653">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+          </outline>
+          <outline text="Oeste" rssowl:isSet="false" rssowl:id="458654">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-54.6198549,-25.69756,-52.5839999,-23.981282" rssowl:id="458655">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-54.6198549,-25.69756,-52.5839999,-23.981282" rssowl:id="458656">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-53.6019274&amp;lat=-24.839421&amp;deg=1" rssowl:id="458657" />
+          </outline>
+          <outline text="Sudeste" rssowl:isSet="false" rssowl:id="458658">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-51.7779999,-26.7135052,-49.9639999,-24.7527564" rssowl:id="458659">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-51.7779999,-26.7135052,-49.9639999,-24.7527564" rssowl:id="458660">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-50.8709999&amp;lat=-25.7331308&amp;deg=1" rssowl:id="458661" />
+          </outline>
+          <outline text="Sudoeste" rssowl:isSet="false" rssowl:id="458662">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-53.9925485,-26.4160623,-52.2126934,-25.47834" rssowl:id="458663">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-53.9925485,-26.4160623,-52.2126934,-25.47834" rssowl:id="458664">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-53.1026209&amp;lat=-25.9472011&amp;deg=1" rssowl:id="458665" />
+          </outline>
+        </outline>
+        <outline text="Pernambuco" rssowl:isSet="false" rssowl:id="458666">
+          <outline text="Continente" rssowl:isSet="false" rssowl:id="458667">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-41.3579999,-9.4763587,-34.5410156,-7.2316987" rssowl:id="458668">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-41.3579999,-9.4763587,-34.5410156,-7.2316987" rssowl:id="458669">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-37.9495077&amp;lat=-8.3540287&amp;deg=1" rssowl:id="458670" />
+          </outline>
+          <outline text="Fernando de Noronha / Rocas" rssowl:isSet="false" rssowl:id="458671">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-34.3652344,-4.3683204,-31.7944336,-3.4476247" rssowl:id="458672" />
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-34.3652344,-4.3683204,-31.7944336,-3.4476247" rssowl:id="458673">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-33.079834&amp;lat=-3.9079725&amp;deg=1" rssowl:id="458674" />
+          </outline>
+          <outline text="Belmonte" rssowl:isSet="false" rssowl:id="458675">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-29.6795654,0.6453683,-29.0516296,1.1507405" rssowl:id="458676" />
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-29.6795654,0.6453683,-29.0516296,1.1507405" rssowl:id="458677">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-29.3655975&amp;lat=0.8980544&amp;deg=0.63" rssowl:id="458678" />
+          </outline>
+        </outline>
+        <outline text="Piauí" rssowl:isSet="false" rssowl:id="458679">
+          <outline text="Centro Norte" rssowl:isSet="false" rssowl:id="458680">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-43.1006868,-6.8519999,-40.7789999,-4.1369999" rssowl:id="458681">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-43.1006868,-6.8519999,-40.7789999,-4.1369999" rssowl:id="458682">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-41.9398434&amp;lat=-5.4944999&amp;deg=1" rssowl:id="458683" />
+          </outline>
+          <outline text="Norte" rssowl:isSet="false" rssowl:id="458684">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-42.9873533,-4.5699999,-41.0909999,-2.7389999" rssowl:id="458685">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-42.9873533,-4.5699999,-41.0909999,-2.7389999" rssowl:id="458686">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-42.0391766&amp;lat=-3.6544999&amp;deg=1" rssowl:id="458687" />
+          </outline>
+          <outline text="Sudeste" rssowl:isSet="false" rssowl:id="458688">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-42.7559999,-8.8059999,-40.3699999,-6.4999999" rssowl:id="458689">
+              <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="421396" type="3" />
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-42.7559999,-8.8059999,-40.3699999,-6.4999999" rssowl:id="458690">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-41.5629999&amp;lat=-7.6529999&amp;deg=1" rssowl:id="458691" />
+          </outline>
+          <outline text="Sudoeste" rssowl:isSet="false" rssowl:id="458692">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-45.9945262,-10.9280561,-41.4109999,-6.646105" rssowl:id="458693">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-45.9945262,-10.9280561,-41.4109999,-6.646105" rssowl:id="458694">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-43.702763&amp;lat=-8.7870805&amp;deg=1" rssowl:id="458695" />
+          </outline>
+        </outline>
+        <outline text="Rio de Janeiro" rssowl:isSet="false" rssowl:id="458696">
+          <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-44.8884938,-23.6817832,-40.673272,-20.7631777" rssowl:id="458697">
+            <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+          </outline>
+          <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-44.8884938,-23.6817832,-40.673272,-20.7631777" rssowl:id="458698">
+            <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+          </outline>
+          <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-42.7808829&amp;lat=-22.2224804&amp;deg=1" rssowl:id="458699">
+            <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="421584" type="3" />
+            <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+          </outline>
+        </outline>
+        <outline text="Rio Grande do Norte" rssowl:isSet="false" rssowl:id="458700">
+          <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-38.5809999,-6.9819999,-33.6151884,-3.6488954" rssowl:id="458701">
+            <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+          </outline>
+          <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-38.5809999,-6.9819999,-33.6151884,-3.6488954" rssowl:id="458702">
+            <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+          </outline>
+          <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-36.0980941&amp;lat=-5.3154476&amp;deg=1" rssowl:id="458703">
+            <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+          </outline>
+        </outline>
+        <outline text="Rio Grande do Sul" rssowl:isSet="false" rssowl:id="458704">
+          <outline text="Centro ocidental" rssowl:isSet="false" rssowl:id="458705">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-55.5506732,-30.5209999,-53.0260352,-28.6489999" rssowl:id="458706">
+              <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="428821" type="3" />
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-55.5506732,-30.5209999,-53.0260352,-28.6489999" rssowl:id="458707">
+              <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="422539" type="3" />
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-54.2883542&amp;lat=-29.5849999&amp;deg=1" rssowl:id="458708">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+          </outline>
+          <outline text="Centro oriental" rssowl:isSet="false" rssowl:id="458709">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-53.3509999,-30.6779999,-51.6379999,-29.0139999" rssowl:id="458710">
+              <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="422550" type="3" />
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-53.3509999,-30.6779999,-51.6379999,-29.0139999" rssowl:id="458711">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-52.4944999&amp;lat=-29.8459999&amp;deg=1" rssowl:id="458712">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+          </outline>
+          <outline text="Metropolitana" rssowl:isSet="false" rssowl:id="458713">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-52.4519999,-31.5018715,-49.7034504,-29.1989668" rssowl:id="458714">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-52.4519999,-31.5018715,-49.7034504,-29.1989668" rssowl:id="458715">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-51.0777251&amp;lat=-30.3504191&amp;deg=1" rssowl:id="458716">
+              <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="422804" type="3" />
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+          </outline>
+          <outline text="Nordeste" rssowl:isSet="false" rssowl:id="458717">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-52.3289999,-29.5589999,-49.6914143,-27.7197285" rssowl:id="458718">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-52.3289999,-29.5589999,-49.6914143,-27.7197285" rssowl:id="458719">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-51.0102071&amp;lat=-28.6393642&amp;deg=1" rssowl:id="458720">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+          </outline>
+          <outline text="Noroeste" rssowl:isSet="false" rssowl:id="458721">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-55.7740537,-29.3669999,-51.2977945,-27.0825355" rssowl:id="458722">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-55.7740537,-29.3669999,-51.2977945,-27.0825355" rssowl:id="458723">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-53.5359241&amp;lat=-28.2247677&amp;deg=1" rssowl:id="458724" />
+          </outline>
+          <outline text="Sudeste" rssowl:isSet="false" rssowl:id="458725">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-53.9548854,-33.7510666,-51.1836851,-30.1376749" rssowl:id="458726">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-53.9548854,-33.7510666,-51.1836851,-30.1376749" rssowl:id="458727">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-52.5692852&amp;lat=-31.9443707&amp;deg=1" rssowl:id="458728" />
+          </outline>
+          <outline text="Sudoeste" rssowl:isSet="false" rssowl:id="458729">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-57.6474385,-31.9569972,-53.4289999,-28.0765151" rssowl:id="458730">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-57.6474385,-31.9569972,-53.4289999,-28.0765151" rssowl:id="458731">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-55.5382192&amp;lat=-30.0167561&amp;deg=1" rssowl:id="458732">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+          </outline>
+        </outline>
+        <outline text="Rondônia" rssowl:isSet="false" rssowl:id="458733">
+          <outline text="Leste" rssowl:isSet="false" rssowl:id="458734">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-63.7651771,-13.6923777,-59.7739999,-8.5749999" rssowl:id="458735">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-63.7651771,-13.6923777,-59.7739999,-8.5749999" rssowl:id="458736">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-61.7695885&amp;lat=-11.1336888&amp;deg=1" rssowl:id="458737" />
+          </outline>
+          <outline text="Madeira-Guaporé" rssowl:isSet="false" rssowl:id="458738">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-66.8059999,-12.9269999,-62.2369999,-7.9689999" rssowl:id="458739">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-66.8059999,-12.9269999,-62.2369999,-7.9689999" rssowl:id="458740">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-64.5214999&amp;lat=-10.4479999&amp;deg=1" rssowl:id="458741" />
+          </outline>
+        </outline>
+        <outline text="Roraima" rssowl:isSet="false" rssowl:id="458742">
+          <outline text="Norte" rssowl:isSet="false" rssowl:id="458743">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-64.8193646,1.707,-59.5153006,5.2842873" rssowl:id="458744">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-64.8193646,1.707,-59.5153006,5.2842873" rssowl:id="458745">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-62.1673326&amp;lat=3.4956437&amp;deg=1" rssowl:id="458746" />
+          </outline>
+          <outline text="Sul" rssowl:isSet="false" rssowl:id="458747">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-63.9580999,-1.5938647,-58.8859999,2.948" rssowl:id="458748">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-63.9580999,-1.5938647,-58.8859999,2.948" rssowl:id="458749">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-61.4220499&amp;lat=0.6770677&amp;deg=1" rssowl:id="458750" />
+          </outline>
+        </outline>
+        <outline text="Santa Catarina" rssowl:isSet="false" rssowl:id="458751">
+          <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-53.837348,-29.4249415,-48.1107585,-25.9557194" rssowl:id="458752">
+            <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+          </outline>
+          <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-53.837348,-29.4249415,-48.1107585,-25.9557194" rssowl:id="458753">
+            <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+          </outline>
+          <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-50.9740532&amp;lat=-27.6903304&amp;deg=1" rssowl:id="458754">
+            <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+          </outline>
+        </outline>
+        <outline text="São Paulo" rssowl:isSet="false" rssowl:id="458755">
+          <outline text="Araçatuba" rssowl:isSet="false" rssowl:id="458756">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-51.7719071,-21.7257284,-49.8159999,-20.2799999" rssowl:id="458757">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-51.7719071,-21.7257284,-49.8159999,-20.2799999" rssowl:id="458758">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-50.7939535&amp;lat=-21.0028641&amp;deg=1" rssowl:id="458759">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+          </outline>
+          <outline text="Araraquara" rssowl:isSet="false" rssowl:id="458760">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-49.2409999,-22.2429999,-47.5099999,-21.3699999" rssowl:id="458761">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-49.2409999,-22.2429999,-47.5099999,-21.3699999" rssowl:id="458762">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-48.3754999&amp;lat=-21.8064999&amp;deg=1" rssowl:id="458763" />
+          </outline>
+          <outline text="Assis" rssowl:isSet="false" rssowl:id="458764">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-51.2979999,-23.5399999,-49.1969999,-22.0193227" rssowl:id="458765">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-51.2979999,-23.5399999,-49.1969999,-22.0193227" rssowl:id="458766">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-50.2474999&amp;lat=-22.7796613&amp;deg=1" rssowl:id="458767" />
+          </outline>
+          <outline text="Bauru" rssowl:isSet="false" rssowl:id="458768">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-50.2729812,-23.7033103,-47.9275506,-21.2749999" rssowl:id="458769">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-50.2729812,-23.7033103,-47.9275506,-21.2749999" rssowl:id="458770">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-49.1002659&amp;lat=-22.4891551&amp;deg=1" rssowl:id="458771" />
+          </outline>
+          <outline text="Campinas" rssowl:isSet="false" rssowl:id="458772">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-47.6259999,-23.2259999,-46.3319999,-21.2639999" rssowl:id="458773">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-47.6259999,-23.2259999,-46.3319999,-21.2639999" rssowl:id="458774">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-46.9789999&amp;lat=-22.2449999&amp;deg=1" rssowl:id="458775">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+          </outline>
+          <outline text="Itapetininga" rssowl:isSet="false" rssowl:id="458776">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-49.6255317,-24.7271651,-47.5729999,-22.8606318" rssowl:id="458777">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-49.6255317,-24.7271651,-47.5729999,-22.8606318" rssowl:id="458778">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-48.5992658&amp;lat=-23.7938984&amp;deg=1" rssowl:id="458779" />
+          </outline>
+          <outline text="Litoral Sul" rssowl:isSet="false" rssowl:id="458780">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-48.6007626,-25.3122237,-46.5890145,-23.9389999" rssowl:id="458781">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-48.6007626,-25.3122237,-46.5890145,-23.9389999" rssowl:id="458782">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-47.5948885&amp;lat=-24.6256118&amp;deg=1" rssowl:id="458783" />
+          </outline>
+          <outline text="Macro Metropolitana" rssowl:isSet="false" rssowl:id="458784">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-48.2081311,-24.1339999,-46.0409999,-22.7674836" rssowl:id="458785">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-48.2081311,-24.1339999,-46.0409999,-22.7674836" rssowl:id="458786">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-47.1245655&amp;lat=-23.4507417&amp;deg=1" rssowl:id="458787">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+          </outline>
+          <outline text="Marília" rssowl:isSet="false" rssowl:id="458788">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-50.8658654,-22.5919999,-49.4219999,-21.6567034" rssowl:id="458789">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-50.8658654,-22.5919999,-49.4219999,-21.6567034" rssowl:id="458790">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-50.1439326&amp;lat=-22.1243516&amp;deg=1" rssowl:id="458791">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+          </outline>
+          <outline text="Metropolitana" rssowl:isSet="false" rssowl:id="458792">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-47.2079999,-24.0923487,-44.8465551,-23.1829999" rssowl:id="458793">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-47.2079999,-24.0923487,-44.8465551,-23.1829999" rssowl:id="458794">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-46.0272775&amp;lat=-23.6376743&amp;deg=1" rssowl:id="458795">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+          </outline>
+          <outline text="Piracicaba" rssowl:isSet="false" rssowl:id="458796">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-48.3299999,-23.2229999,-47.0739999,-22.0629999" rssowl:id="458797">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-48.3299999,-23.2229999,-47.0739999,-22.0629999" rssowl:id="458798">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-47.7019999&amp;lat=-22.6429999&amp;deg=1" rssowl:id="458799">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+          </outline>
+          <outline text="Presidente Prudente" rssowl:isSet="false" rssowl:id="458800">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-53.1089999,-22.6969999,-50.6094129,-21.0503763" rssowl:id="458801">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-53.1089999,-22.6969999,-50.6094129,-21.0503763" rssowl:id="458802">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-51.8592064&amp;lat=-21.8736881&amp;deg=1" rssowl:id="458803" />
+          </outline>
+          <outline text="Ribeirão Preto" rssowl:isSet="false" rssowl:id="458804">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-48.8939999,-21.8069999,-47.0431047,-19.9628676" rssowl:id="458805">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-48.8939999,-21.8069999,-47.0431047,-19.9628676" rssowl:id="458806">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-47.9685523&amp;lat=-20.8849338&amp;deg=1" rssowl:id="458807" />
+          </outline>
+          <outline text="São José do Rio Preto" rssowl:isSet="false" rssowl:id="458808">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-51.1089999,-21.6709999,-48.6909999,-19.7789999" rssowl:id="458809">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-51.1089999,-21.6709999,-48.6909999,-19.7789999" rssowl:id="458810">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-49.8999999&amp;lat=-20.7249999&amp;deg=1" rssowl:id="458811">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+          </outline>
+          <outline text="Vale do Paraíba Paulista" rssowl:isSet="false" rssowl:id="458812">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-46.2619999,-23.842621,-44.1609999,-22.4033613" rssowl:id="458813">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-46.2619999,-23.842621,-44.1609999,-22.4033613" rssowl:id="458814">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-45.2114999&amp;lat=-23.1229911&amp;deg=1" rssowl:id="458815">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+          </outline>
+        </outline>
+        <outline text="Sergipe" rssowl:isSet="false" rssowl:id="458816">
+          <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-38.2449999,-11.5682433,-36.2819697,-9.5149999" rssowl:id="458817">
+            <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+          </outline>
+          <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-38.2449999,-11.5682433,-36.2819697,-9.5149999" rssowl:id="458818">
+            <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+          </outline>
+          <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-37.2634848&amp;lat=-10.5416216&amp;deg=1" rssowl:id="458819" />
+        </outline>
+        <outline text="Tocantins" rssowl:isSet="false" rssowl:id="458820">
+          <outline text="Ocidental" rssowl:isSet="false" rssowl:id="458821">
+            <outline text="Araguaína" rssowl:isSet="false" rssowl:id="458822">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-49.2657925,-7.5619999,-48.0519999,-6.9419999" rssowl:id="458823">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-49.2657925,-7.5619999,-48.0519999,-6.9419999" rssowl:id="458824">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-48.6588962&amp;lat=-7.2519999&amp;deg=1" rssowl:id="458825" />
+            </outline>
+            <outline text="Bico do Papagaio" rssowl:isSet="false" rssowl:id="458826">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-48.7567463,-7.0059999,-47.3769999,-5.1679999" rssowl:id="458827">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-48.7567463,-7.0059999,-47.3769999,-5.1679999" rssowl:id="458828">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-48.0668731&amp;lat=-6.0869999&amp;deg=1" rssowl:id="458829" />
+            </outline>
+            <outline text="Gurupi" rssowl:isSet="false" rssowl:id="458830">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-49.7989999,-13.3169999,-48.1009999,-10.7379999" rssowl:id="458831" />
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-49.7989999,-13.3169999,-48.1009999,-10.7379999" rssowl:id="458832">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-48.9499999&amp;lat=-12.0274999&amp;deg=1" rssowl:id="458833" />
+            </outline>
+            <outline text="Miracema do Tocantins" rssowl:isSet="false" rssowl:id="458834">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-50.0329999,-10.1509999,-48.0809951,-7.8479999" rssowl:id="458835">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-50.0329999,-10.1509999,-48.0809951,-7.8479999" rssowl:id="458836">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-49.0569975&amp;lat=-8.9994999&amp;deg=1" rssowl:id="458837" />
+            </outline>
+            <outline text="Rio Formoso" rssowl:isSet="false" rssowl:id="458838">
+              <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-50.7416492,-13.2739999,-48.5959999,-9.2282043" rssowl:id="458839">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-50.7416492,-13.2739999,-48.5959999,-9.2282043" rssowl:id="458840">
+                <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+              </outline>
+              <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-49.6688245&amp;lat=-11.2511021&amp;deg=1" rssowl:id="458841" />
+            </outline>
+          </outline>
+          <outline text="Oriental" rssowl:isSet="false" rssowl:id="458842">
+            <outline text="Notas" xmlUrl="http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-48.8269999,-13.4669999,-45.696978,-7.4319999" rssowl:id="458843">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Quem fez o quê" xmlUrl="http://zverik.osm.rambler.ru/whodidit/scripts/rss.php?bbox=-48.8269999,-13.4669999,-45.696978,-7.4319999" rssowl:id="458844">
+              <rssowl:pref id="org.rssowl.ui.internal.LoadErrorKey" value="Não é Possível Encontrar Servidor" type="5" />
+            </outline>
+            <outline text="Novos mapeadores" xmlUrl="http://resultmaps.neis-one.org/newestosmfeed.php?lon=-47.2619889&amp;lat=-10.4494999&amp;deg=1" rssowl:id="458845" />
+          </outline>
+        </outline>
+      </outline>
+    </outline>
+    <rssowl:label id="1" name="Importante" order="0" color="163,21,2" />
+    <rssowl:label id="2" name="Trabalho" order="3" color="200,118,10" />
+    <rssowl:label id="3" name="Pessoal" order="4" color="82,92,58" />
+    <rssowl:label id="4" name="A Fazer" order="7" color="92,101,126" />
+    <rssowl:label id="5" name="Mais Tarde" order="9" color="82,16,0" />
+    <rssowl:label id="1528" name="Work" order="2" color="200,118,10" />
+    <rssowl:label id="1529" name="Important" order="1" color="163,21,2" />
+    <rssowl:label id="1530" name="To Do" order="6" color="92,101,126" />
+    <rssowl:label id="1531" name="Personal" order="5" color="82,92,58" />
+    <rssowl:label id="1532" name="Later" order="8" color="82,16,0" />
+    <rssowl:pref id="org.rssowl.ui.FirstStartToken" value="true" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.UseMasterPassword" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.UseOSPassword" value="true" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.RememberPassword" value="true" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.MarkNewsReadOnMinimize" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.MarkNewsReadOnScrolling" value="true" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.MarkFeedReadOnChange" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.MarkNewsReadOnTabClose" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.MarkDuplicateNewsRead" value="true" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.DisableJavaScript" value="true" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.UseExternalBrowser" value="true" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.UseCustomExternalBrowser" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.ReopenBrowserTabs" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.UseSystemTray" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.TrayOnExit" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.TrayOnStart" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.RestoreTrayDoubleclick" value="true" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.MarkReadState" value="true" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.MarkReadInMillis" value="0" type="1" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.DelNewsByCountState" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.DelNewsByCountValue" value="200" type="1" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.DelNewsByAgeState" value="true" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.DelNewsByAgeValue" value="30" type="1" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.DelReadNewsState" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.NeverDelUnreadNewsState" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.NeverDelLabeledNewsState" value="true" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.BMNewsColumns" value="0,11,1,5,6,9" type="2" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.BMNewsSortColumn" value="1" type="1" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.BMNewsSortAscending" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.BMUpdateInterval" value="1800" type="3" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.BMUpdateIntervalState" value="true" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.BMOpenOnStartup" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.BMReloadOnStartup" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.ui.internal.editors.feed.SearchTarget" value="1" type="1" kind="0" />
+    <rssowl:pref id="org.rssowl.ui.internal.editors.feed.GroupType" value="0" type="1" kind="0" />
+    <rssowl:pref id="org.rssowl.ui.internal.editors.feed.FilterType" value="0" type="1" kind="0" />
+    <rssowl:pref id="org.rssowl.ui.internal.editors.feed.SashFormWeights" value="469,523" type="2" kind="0" />
+    <rssowl:pref id="org.rssowl.ui.internal.editors.feed.Layout" value="0" type="1" kind="0" />
+    <rssowl:pref id="org.rssowl.ui.internal.editors.feed.HighlightSearchResults" value="true" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.ui.internal.editors.feed.FeedToolBarHidden" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.ui.internal.editors.feed.BrowserToolBarHidden" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.ui.internal.views.explorer.BeginSearchOnTyping" value="true" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.ui.internal.views.explorer.AlwaysShowSearch" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.ui.internal.views.explorer.SortByName" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.ui.internal.views.explorer.FilterType" value="0" type="1" kind="0" />
+    <rssowl:pref id="org.rssowl.ui.internal.views.explorer.GroupingType" value="0" type="1" kind="0" />
+    <rssowl:pref id="org.rssowl.ui.internal.views.explorer.EnableLinking" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.ui.internal.views.explorer.DisableFavicons" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.BMNewsFiltering" value="-1" type="1" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.BMNewsGrouping" value="-1" type="1" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.BMLoadImages" value="true" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.EnableImages" value="true" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.EnableMedia" value="true" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.BMOpenSiteForNews" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.OpenSiteForEmptyNews" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.UseTransformer" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.TransformerIdentifier" value="org.rssowl.ui.InstapaperTransformer" type="5" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.ShowNotificationPoup" value="true" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.ShowNotificationPoupOnlyWhenMinimized" value="true" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.StickyNotificationPoup" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.AutoCloseNotificationPoupValue" value="8" type="1" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.LimitNotificationPoup" value="5" type="1" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.LimitNotifierToSelection" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.CloseNotifierOnOpen" value="true" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.FadeNotifier" value="true" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.ShowExcerptInNotifier" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.AlwaysReuseFeedView" value="true" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.AlwaysReuseBrowser" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.OpenLinksInNewTab" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.CleanUpBMByLastVisitState" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.CleanUpBMByLastVisitValue" value="15" type="1" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.CleanUpBMByLastUpdateState" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.CleanUpBMByLastUpdateValue" value="30" type="1" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.CleanUpBMByConError" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.CleanUpBMBySynchronization" value="true" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.CleanUpBMByDuplicates" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.CleanUpNewsByCountState" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.CleanUpNewsByCountValue" value="200" type="1" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.CleanUpNewsByAgeState" value="true" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.CleanUpNewsByAgeValue" value="15" type="1" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.CleanUpReadNewsState" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.CleanUpNeverDelUnreadNewsState" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.CleanUpNeverDelLabeledNewsState" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.CleanUpReminderDateMillies" value="1451868492277" type="3" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.CleanUpReminderState" value="true" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.CleanUpReminderDaysValue" value="30" type="1" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.CleanUpIndex" value="true" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.SearchDialogPreviewVisible" value="true" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.SearchDialogNewsColumns" value="12,0,11,1,5,6,9" type="2" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.SearchDialogNewsSortColumn" value="12" type="1" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.SearchDialogNewsSortAscending" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.ShowToolbar" value="true" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.ShowStatus" value="true" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.BMLoadTitleFromFeed" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.LastKeywordFeed" value="org.rssowl.ui.LiveKeywordFeed" type="5" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.OpenBrowserInBackground" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.ShareProviderState" value="3,5,1,6,7,24,-8,-19,-9,-10,-12,-13,-4,-14,-15,-16,-17,-11,-18,-20,-21,-2,-22,-23,-25,-26" type="2" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.HideCompletedDownloads" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.ImportResources" value="C:\RSSOWL Brasil Ao Vivo.opml,D:\DENI\Portal Palma8SM\2015.11.29 - rssowl.opml,D:\DENI\Portal Palma8SM\2015.07.22 - rssowl.opml,D:\DENI\PDrive 16 gb deni\2014.07.14 rssowl.opml,H:\2014.06.25 rssowl.opml,C:\Users\Deni\Downloads\2014.06.05 - rssowl.opml,F:\RSS oWL fontes.opml,H:\RSS oWL fontes.opml,K:\rssowl\RSS oWL fontes.opml" type="6" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.ToolbarItems" value="2,0,5,6,0,7,8,0,10,0,11,12,0,39,0,13,14,0,20,0,15,16" type="2" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.ToolbarMode" value="0" type="1" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.DefaultNextAction" value="1" type="1" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.DefaultPreviousAction" value="5" type="1" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.BMMenuFilter" value="0" type="1" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.UpdateOnStartup" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.RememberAggregateNewsOption" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.AggregateNewsAsSearch" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.LocalizedFeedSearch" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.JSInfobarClosed" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.EnableIEPopupBlocker" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.ArchiveBinMarker" value="false" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.NewsBrowserPageSize" value="50" type="1" kind="0" />
+    <rssowl:pref id="instance/org.eclipse.ui.workbench/OPEN_ON_SINGLE_CLICK" value="true" type="0" kind="1" />
+    <rssowl:pref id="instance/org.eclipse.ui.workbench/USE_IPERSISTABLE_EDITORS" value="true" type="0" kind="1" />
+    <rssowl:pref id="instance/org.eclipse.ui/SHOW_MULTIPLE_EDITOR_TABS" value="true" type="0" kind="1" />
+    <rssowl:pref id="instance/org.eclipse.ui.workbench/REUSE_OPEN_EDITORS_BOOLEAN" value="false" type="0" kind="1" />
+    <rssowl:pref id="instance/org.eclipse.ui.workbench/REUSE_OPEN_EDITORS" value="5" type="1" kind="1" />
+    <rssowl:pref id="/configuration/org.eclipse.core.net/proxiesEnabled" value="false" type="0" kind="1" />
+    <rssowl:pref id="/configuration/org.eclipse.core.net/systemProxiesEnabled" value="false" type="0" kind="1" />
+    <rssowl:pref id="/configuration/org.eclipse.core.net/proxyData/HTTP/hasAuth" value="false" type="0" kind="1" />
+    <rssowl:pref id="/configuration/org.eclipse.core.net/proxyData/HTTPS/hasAuth" value="false" type="0" kind="1" />
+    <rssowl:pref id="/configuration/org.eclipse.core.net/proxyData/SOCKS/hasAuth" value="false" type="0" kind="1" />
+  </body>
+</opml>
+
