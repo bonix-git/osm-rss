@@ -1,0 +1,15 @@
+Published on Dec 24, 2015
+Neste tutorial você aprenderá a vigiar regiões de seu interesse no Brasil a fim de ficar por dentro de quem fez/ta fazendo edições na sua região.
+
+Baixe o conjunto de fontes RSS, ou peça pelo e-mail imagens.sm@gmail.com:
+
+- http://www.2shared.com/file/VFk5ezEq/... - Arquivo sob licença Domínio Público
+
+Onde baixar o RSSOwl: http://www.rssowl.org/
+
+Faça você mesmo suas áreas de interesse: http://tyrasd.github.io/osm-qa-feeds/
+
+E não esqueça....
+
+Para aparecer também o Achavi na área vigiada personalizada mudar de http://simon04.dev.openstreetmap.org/... para 
+http://zverik.osm.rambler.ru/whodidit/ o início do endereço do RSS
